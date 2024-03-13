@@ -4,7 +4,7 @@
 }
 
 .container > div {
-  flex: 50%;
+  flex: 100%;
   box-shadow: 0 0 0 1px rgb(241, 88, 88);
   margin-bottom: 10px;
 }
